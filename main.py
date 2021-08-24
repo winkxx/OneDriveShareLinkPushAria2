@@ -8,12 +8,12 @@ from urllib import parse
 import requests
 import os
 
-OneDriveShareURL = "https://stankyo.sharepoint.com/:f:/s/SK002/Egpj3auYf1VOj_TFCG6OWmgB8_okYQQWUWpd-9R3_jIIzw?e=ug3p3V"
+OneDriveShareURL = "https://m95-my.sharepoint.com/personal/zzh293_home_1ove_vip/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fzzh293%5Fhome%5F1ove%5Fvip%2FDocuments%2FXXX%2F%E7%8E%A9%E5%81%B6%E5%A7%90%E5%A7%90HongKongDoll32%E9%83%A8%E5%90%88%E9%9B%86%20202108&originalPath=aHR0cHM6Ly9tOTUtbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvenpoMjkzX2hvbWVfMW92ZV92aXAvRXFKS2kyMm4zSmxCbl9ER2Nac1gyaElCZDVnZGJJNjFuRUp3LWtJMnRfLXluUT9ydGltZT1zOE8teHVabTJVZw"
 
-aria2Link = "http://localhost:5800/jsonrpc"
-aria2Secret = "123456"
+aria2Link = "http://127.0.0.1:6800/jsonrpc"
+aria2Secret = "wink"
 
-isDownload = False
+isDownload = True
 downloadStart = 1
 downloadNum = -1
 
