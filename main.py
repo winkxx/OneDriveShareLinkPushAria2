@@ -13,7 +13,7 @@ OneDriveShareURL = "https://gitaccuacnz2-my.sharepoint.com/:f:/g/personal/mail_f
 aria2Link = "ws://127.0.0.1:6800/jsonrpc"
 aria2Secret = "wink"
 
-isDownload = True
+isDownload = False
 downloadStart = 1
 downloadNum = -1
 
