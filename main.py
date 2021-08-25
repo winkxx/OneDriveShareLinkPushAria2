@@ -11,7 +11,7 @@ import os
 OneDriveShareURL = "https://gitaccuacnz2-my.sharepoint.com/:f:/g/personal/mail_finderacg_com/EheQwACFhe9JuGUn4hlg9esBsKyk5jp9-Iz69kqzLLF5Xw?e=FG7SHh"
 
 aria2Link = "ws://127.0.0.1:6800/jsonrpc"
-aria2Secret = "5106abb4263f226b225a"
+aria2Secret = "wink"
 
 isDownload = True
 downloadStart = 1
